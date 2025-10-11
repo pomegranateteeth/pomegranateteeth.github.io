@@ -58,9 +58,10 @@ body.bio-page {
     background-image:
     linear-gradient(
       to bottom,
-      #ee657f 0%,
+      #300912 0%,
       #7a2635 50%,
-      #300912 100%
+      #e15a73 100%
+      
     );
   background-size: cover;
   background-position: center;
@@ -208,6 +209,14 @@ li {
   line-height: 1.2em;
   margin: 1.1em 0;
   max-width: 800px;
+}
+
+.paragraph5 {
+  color: #e7e7e7;
+  text-align: center;
+  font-size: 1em;
+  line-height: 1em;
+  margin-top: 16px;
 }
 
 .centered-list {
