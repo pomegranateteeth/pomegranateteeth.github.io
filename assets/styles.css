@@ -15,8 +15,8 @@ body {
 .main-container {
   max-width: 1000px;
   margin: 0 auto;
-  padding-left: 50px;
-  padding-right: 50px;
+  padding-left: clamp(16px, 5vw, 50px);
+  padding-right: clamp(16px, 5vw, 50px);
 }
 
 body.bio-page {
@@ -34,8 +34,8 @@ body.bio-page {
   background: #000;
   max-width: 1000px;
   margin: 0 auto;
-  padding-left: 50px;
-  padding-right: 50px;
+  padding-left: clamp(16px, 5vw, 50px);
+  padding-right: clamp(16px, 5vw, 50px);
 }
 
 
@@ -114,8 +114,8 @@ body.bio-page {
 .main-container-index {
   max-width: 1000px;
   margin: 0 auto;
-  padding-left: 8px;
-  padding-right: 8px;
+  padding-left: clamp(8px, 5vw, 50px);
+  padding-right: clamp(8px, 5vw, 50px);
 }
 
 a {
@@ -328,6 +328,14 @@ img {
   max-width: 100%;
   height: auto;
   display: block;
+}
+/* Padding for promo/title images wrapped in a .title-img container */
+.title-img img {
+  padding: 50px;
+  box-sizing: border-box;
+  display: block;
+  margin: 0 auto;
+  max-width: 100%;
 }
 .small-img {
   max-width: 400px;
@@ -639,6 +647,11 @@ img {
   max-width: 1200px;
 }
 
+.right-text-box-flex h1 {
+  color: #ffffff;
+}
+
+
 /* Two text boxes side by side in a flex row */
 .flex-row-two-boxes {
   display: flex;
@@ -822,8 +835,9 @@ footer.footer {
   }
 }
 
-/* Tablets */
+/* Tablets / Small desktops */
 @media (max-width: 900px) {
+  /* container & book adjustments */
   .book-bg-content {
     padding-left: 16px;
     padding-right: 16px;
@@ -837,7 +851,7 @@ footer.footer {
     font-size: 1.2em;
     padding: 18px 8px;
   }
-  
+
   /* Gallery adjustments for tablets */
   .gallery-5 {
     grid-template-columns: repeat(3, 1fr);
@@ -853,7 +867,7 @@ footer.footer {
     grid-template-columns: repeat(3, 1fr);
     grid-template-rows: repeat(3, 1fr);
   }
-  
+
   /* Navbar adjustments */
   .navbar-icon {
     margin-left: 8px;
@@ -862,7 +876,7 @@ footer.footer {
     max-width: 100px;
     padding-left: 8px;
   }
-  
+
   /* Typography adjustments */
   h1 {
     font-size: 1.8em;
@@ -874,10 +888,8 @@ footer.footer {
     font-size: 1em;
     line-height: 1.4;
   }
-}
 
-/* Responsive: stack vertically on small screens */
-@media (max-width: 900px) {
+  /* Layout stacking for smaller/tablet screens */
   .flex-row-two-boxes {
     flex-direction: column;
     gap: 20px;
@@ -885,7 +897,7 @@ footer.footer {
   .flex-row-two-boxes .text-box {
     max-width: 100%;
   }
-  
+
   .flex-row {
     flex-direction: column;
     align-items: center;
