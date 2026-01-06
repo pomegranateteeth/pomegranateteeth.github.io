@@ -60,7 +60,7 @@ body.bio-page {
       to bottom,
       #300912 0%,
       #7a2635 50%,
-      #e15a73 100%
+      #ee657f 100%
       
     );
   background-size: cover;
@@ -123,7 +123,7 @@ a {
 }
 a:hover,
 a:focus {
-  color: #e687b3; /* Replace with your desired hover color */
+  color: #9ad8de; /* Replace with your desired hover color */
 }
 
 h1 {
@@ -215,6 +215,7 @@ li {
   color: #e7e7e7;
   text-align: center;
   font-size: 1em;
+    font-size: .9em;
   line-height: 1em;
   margin-top: 16px;
 }
