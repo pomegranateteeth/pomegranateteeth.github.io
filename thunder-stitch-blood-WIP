@@ -1,14 +1,15 @@
 <!DOCTYPE HTML>
 <html>
-
+      
   <head>
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Arlo Blackthorn</title>
     <link rel="stylesheet" href="assets/styles.css">
-    <!-- Standard favicon -->
-    <link rel="icon" href="/favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+        <!-- Standard favicon -->
+      <link rel="icon" href="/favicon.ico" type="image/x-icon">
   </head>
   
   <body>
@@ -25,17 +26,18 @@
         </div>
         <div></div>
     </nav>
-    <!--book section-->
-    <div class="book-bg">
+        <!--book section-->
+    <div class="book-bg2">
       <div class="main-container">
-          <div class="book-bg-content">
-            <!-- Content goes here -->
-            <img src="./images/book_HTS/booke_title_web.png" alt="Haunting the Scavenger" class="title-img">
+          <div class="book-bg2-content">
+         <!-- Content goes here -->
+          
+                    <img src="./images/xxxx" alt="x" class="title-img">
             <p class="paragraph5"><i>In this Gothic Horror Romance, Haunting the Scavenger, our friend Monty bites off more than he can chew in his pursuit to investigate the untimely death of his mentor, Dr. Giovanni, as he slowly becomes entranced by her only living heir, Cameron.</i></p>
             <div class="line-divider4"></div>
             <div class="flex-row">
               <div class="flex-row custom-flex-img">
-                <img src="./images/book_HTS/hts-solo-2.png" alt="Haunting the Scavenger" class="custom-flex-img">
+                <img src="./images/xxxx" alt="x" class="custom-flex-img">
               </div>
               <div class="right-text-box-flex">
                 <p class="paragraph3">Monty finds his life in shambles following the sudden death of his mentor, Dr. Giovanni. Searching for work to get back on his feet (and off his friend Mina's living room floor) he finds a groundskeeper listing at the Giovanni Estate, the very location of his professor’s suicide. Now, presented with the opportunity to learn what really happened, Monty takes the job. However, upon arriving at his professor's crumbling Victorian mansion, he finds that its lone inhabitant, Cameron, is a little less than willing to share any details about their late mother.</p>
@@ -53,38 +55,6 @@
                   </div>
                 </div>
               </div>
-            </div>
-              <div class="line-divider3"></div>
-            <h5>🐍Paperback🗡️</h5>
-            <div class="blank-divider-medium"></div>
-            <div class="flex-row flex-row-two-boxes">
-              <div class="flex-box">
-                <div style="border: 1px solid #9ad8de; border-radius: 12px; padding: 15px; display: flex; width:300px;">
-                  <div style="display: flex; flex: 45%; padding-right: 15px;">
-                  <img src="https://image-hub-cloud.lightningsource.com/2011-04-01/Images/front_cover/x200/sku/9798218815028.jpg?viewkey=9f84c7a571bc19fa4270254c087522a1c0ce609ecb0c39b4b164358405744de6" style="width: 96px; height: auto; align-self: flex-start;" />
-                  </div>
-                   <div style="flex: 55%;">
-                    <div style="text-align: left; color: #9ad8de; font: normal normal bold 16px/22px Open Sans; padding: 5px;">
-                      Haunting the Scavenger
-                      </div>
-                    <div style="text-align: left; color: #9ad8de; font: italic normal normal 13px/18px Open Sans; padding: 5px;">
-                      Blackthorn, Arlo
-                    </div>
-                  <div>
-                   <a href="https://shop.ingramspark.com/b/084?params=ZrbEyPkvWHKabp80XWxU1caHbwa2K15UBcBxx5IIAcp" target="_blank" style="background: #9ad8de 0% 0% no-repeat padding-box; border-radius:8px; color:black; text-decoration:none; width: 163px; height: 34px; display: table-cell; text-align: center; vertical-align: middle; font: normal normal bold 16px/22px Open Sans;">Buy Now</a>
-                   </div>
-                   </div>
-                  </div>
-                </div>
-              <div class="flex-box">
-                <a href="https://www.dogearedbooks.com/" class="nav-btn">Dog Eared Books - CA</a>
-                <div class="blank-divider-small"></div>
-                <a href="https://www.fabulosabooks.com/#/" class="nav-btn">Fabulosa Books - CA</a>
-                <div class="blank-divider-small"></div>
-                <a href="https://www.queerartsfeatured.com/" class="nav-btn">Queer Arts Featured - CA</a>
-                <div class="blank-divider-small"></div>
-                <a href="https://www.quimbys.com/" class="nav-btn">Quimby's - IL</a>
-                </div>
             </div>
             <div class="blank-divider-medium"></div>
             <div class="line-divider4"></div>
@@ -125,10 +95,16 @@
           
               <div class="blank-divider-medium"></div>
           </div>
-      </div>
+        
+        
+        
+        </div>
+       </div>
     </div>
-   
-    <!--footer-->
+
+
+
+     <!--footer-->
     <footer class="footer">
       <div class="footer-flex">
         <div class="footer-logo">

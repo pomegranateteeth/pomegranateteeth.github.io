@@ -1,0 +1,43 @@
+<div class="blank-divider-medium"></div>
+                  <div class="row-of-three">
+                    <a href="https://bsky.app/profile/pomegranateteeth.bsky.social" class="nav-btn-alt" target="_blank" rel="noopener" aria-label="Bluesky">
+                      <i class="fas fa-link"></i> Bluesky
+                    </a>
+                  </div>
+
+                  <div class="blank-divider-medium"></div>
+                   <div class="row-of-three">
+                    <a href="https://pomegranateteeth.tumblr.com/" class="nav-btn-alt" target="_blank" rel="noopener" aria-label="Tumblr">
+                      <i class="fab fa-tumblr"></i> Tumblr
+                    </a>
+                  </div>
+
+                  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+
+<!-- Standard favicon -->
+<link rel="icon" href="/favicon.ico" type="image/x-icon">
+
+<html>
+<div style="border: 1px solid #DCDCDC; border-radius: 12px; padding: 15px; display: flex; width:300px;">
+    <div style="display: flex; flex: 45%; padding-right: 15px;">
+        <img src="https://image-hub-cloud.lightningsource.com/2011-04-01/Images/front_cover/x200/sku/9798218815028.jpg?viewkey=9f84c7a571bc19fa4270254c087522a1c0ce609ecb0c39b4b164358405744de6" style="width: 96px; height: auto; align-self: flex-start;" />
+    </div>
+    <div style="flex: 55%;">
+        <div style="text-align: left; font: normal normal bold 16px/22px Open Sans; padding: 5px;">
+            Haunting the Scavenger
+        </div>
+        <div style="text-align: left; font: italic normal normal 13px/18px Open Sans; padding: 5px;">
+             Blackthorn, Arlo
+         </div>
+         <div>
+            <a href="https://shop.ingramspark.com/b/084?params=ZrbEyPkvWHKabp80XWxU1caHbwa2K15UBcBxx5IIAcp" target="_blank" style="background: #FEBE10 0% 0% no-repeat padding-box; border-radius:8px; color:black; text-decoration:none; width: 163px; height: 34px; display: table-cell; text-align: center; vertical-align: middle; font: normal normal bold 16px/22px Open Sans;">Buy Now</a>
+         </div>
+    </div>
+</div></html>
+
+
+
+<iframe frameborder="0" src="https://itch.io/embed/3902830?bg_color=a82858&amp;fg_color=cfe1e9&amp;link_color=9cdbf4&amp;border_color=dfc0ca" width="552" height="167"><a href="https://pomegranateteeth.itch.io/haunting-the-scavenger">Haunting the Scavenger by Arlo Blackthorn</a></iframe>
+
