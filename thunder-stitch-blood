@@ -1,0 +1,127 @@
+<!DOCTYPE HTML>
+<html>
+      
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Arlo Blackthorn</title>
+    <link rel="stylesheet" href="assets/styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+        <!-- Standard favicon -->
+      <link rel="icon" href="/favicon.ico" type="image/x-icon">
+  </head>
+  
+  <body>
+    <!--navbar-->
+    <nav class="navbar">
+        <span class="navbar-icon">
+          <img src="./images/ab_logo_white_trans.png" alt="Arlo Blackthorn Logo" />
+        </span>
+        <div class="navbar-center">
+          <a href="./index.html" class="nav-btn">Home</a>
+          <a href="./bio.html" class="nav-btn">About</a>
+          <a href="./gallery.html" class="nav-btn">Art Gallery</a>
+          <a href="./haunting-the-scavenger.html" class="nav-btn">Books</a>
+        </div>
+        <div></div>
+    </nav>
+        <!--book section-->
+    <div class="book-bg2">
+      <div class="main-container">
+          <div class="book-bg2-content">
+         <!-- Content goes here -->
+          
+          <img src="./images/book_TSB/TSB_topcard_trans.png" alt="Thunder Stitch n' Blood" class="title-img">
+
+            <p class="paragraph5">
+              <i>More works like these are published monthly in The Silver Backed Mirror news letter</i>
+            </p>
+            <p class="paragraph5"> 
+              <i><b class="white"><a href="https://arloblackthorn.substack.com/">Sign up here!</a></b></i>
+            </p>
+            <div class="line-divider4"></div>
+            <div class="flex-row">
+              <div class="flex-row custom-flex-img">
+                <img src="./images/book_TSB/tunderstichnblood-orginal.jpg" alt="THunder Stitch n' Blood" class="custom-flex-img">
+              </div>
+              <div class="right-text-box-flex">
+                <div class="blank-divider-medium"></div>
+                <div class="blank-divider-medium"></div>
+                <p class="paragraph3">A collection of stories from The Silver Backed Mirror, all refined and bundled together for your reading pleasure. Enjoy five short stories designed to make your heart pound. <b class="white"> M/M with a mix of cis and trans characters.</b></p> 
+                <div class="blank-divider-small"></div>
+                <h4>This anthology contains: </h4>
+                <div class="blank-divider-small"></div>
+                <p class="paragraph3"><b class="white">Hell Fire in the Confessional</b> — A priest’s slipping vow of celibacy has transformative consequences — <i>3.4k words.</i></p> 
+                <p class="paragraph3"><b class="white">Thunder, Stitch, and Blood</b> — A roughed-up young man stumbles into an ‘abandoned’ castle looking for help with a dangerous stab wound — <i>5.6k words.</i></p>
+                <p class="paragraph3"><b class="white">A Dagger at Midnight</b> — Mixed messages and mixed feelings lead to mixing knives and kissing — <i>2.1k words.</i></p>
+                <p class="paragraph3"><b class="white">Silver Scalpel</b> — What would happen if you vivisected a vampire? Written from the vampire’s POV — <i>3.3k words.</i></p>
+                <p class="paragraph3"><b class="white">Point of Pleasure</b> — Two principal ballet dancers dress up and goof off after a late-night practice — <i>3.1k words.</i></p>
+                <div class="blank-divider-small"></div>
+                <b class="white"><i>17.3k words total!</i></b>
+                <div class="blank-divider-small"></div>
+                <p class="paragraph3">This anthology is pay what you want. Free to read and download BUT all additional funds raised from this project will go to helping me offset the medical expenses that insurance ended up not covering for my surgery. <b class="white">This edition comes with a PDF and ePub for your reading pleasure.</b></p>
+                <div class="blank-divider-small"></div>
+                <p class="paragraph3">PDF and ePub available for download on itch.io exclusively!</p>
+              </div> 
+            </div>
+          </div>
+          <p class="paragraph1">
+            <iframe frameborder="0" src="https://itch.io/embed/4511956?linkback=true&amp;border_width=3&amp;bg_color=000000&amp;fg_color=ffffff&amp;link_color=da1212&amp;border_color=8a4040" width="556" height="171">
+              <a href="https://pomegranateteeth.itch.io/thunder-stitch-blood">Thunder Stitch N' Blood by Arlo Blackthorn</a>
+            </iframe>
+          </p>
+            <div class="blank-divider-medium"></div>
+            <p class="paragraph1">
+              <itch.io page placeholder>      
+            </p>
+            <div class="line-divider3"></div>
+            <h1>Content & Warnings</h1>
+            <h4>Hellfire in the Confessional </h4>
+              <p class="paragraph4">3.3K words — M/M, cis x trans male, age gap, hierophilia - catholic priest, exophilia - demons, semi-public, sex in the confessional, mild oral, p in v sex, transformation kink. Modern / non distinct time period.</p>
+              <p class="paragraph4">No major content warnings of note. </p>
+            <h4>Thunder, Stitch, and Blood</h4>
+              <p class="paragraph4">5.6k Words — M/M, vampires, wound fucking - fingers and tongue, blood drinking, medical fetish, incorrect wound care, mild hand fetish, hurt / comfort. Fantasy renaissance. </p>
+              <p class="paragraph4">CW: homophobia, physical assault, moderate gore, blood, graphic medical descriptions including stitches. </p>
+            <h4>A Dagger at Midnight</h4>
+              <p class="paragraph4">2.1k Words — M/M, knife fight, unrequited feelings / misunderstanding, no sex. Late renaissance. </p>
+              <p class="paragraph4">CW: Stalking, physical violence, mild blood</p>
+            <h4>Silver Scalpel</h4>
+              <p class="paragraph4">3.3k Words — M/Group, operation theater, live dissection/ vivisection, voyeur/ exhibition, vampire, bound and gagged, dehumanization, non-con, multiple participants, medical fetish, organ caressing. Early Victorian.</p>
+              <p class="paragraph4">CW: explicit gore, nonconsenting submissive, blood, general violence, depictions of graphic injury and internals. </p>
+            <h4>Point of Pleasure</h4>
+              <p class="paragraph4"> 3.1k Words — M/M, established relationship, cross-dressing, ballet, anal sex, unprotected sex, public sex / implied voyeurism kink. Modern.</p>
+              <p class="paragraph4">No major content warnings of note </p>
+           
+            <div class="line-divider4"></div>
+            <div class="flex-row">
+              <div class="flex-row custom-flex-img">
+                <img src="./images/book_TSB/abiconclean.jpg" alt="Arlo Blackthorn" class="custom-flex-img">
+              </div>
+              <div class="right-text-box-flex">
+                <h1><b>About the Author</b></h1>
+                <p class="paragraph1">Arlo Blackthorn is a queer not-so-many centuries old vampire based in woefully sunny California. He received his BFA from The School of the Art Institute of Chicago and works across many artistic disciplines. Between gallery showings and pursuing a master's in history, he manifests extra hours in the day to write. When he’s not reading Gothic horror or hunched over his keyboard, you’ll find him with a gaming controller in hand and little black cat in lap. His debut novel <a href="./haunting-the-scavenger.html">Haunting the Scavenger</a> is available now.</p>
+              </div>
+            </div>
+              <div class="blank-divider-medium"></div>
+          </div>
+        </div>
+       </div>
+    </div>
+
+
+
+     <!--footer-->
+    <footer class="footer">
+      <div class="footer-flex">
+        <div class="footer-logo">
+          <img src="./images/ab_logo_white_trans.png" alt="Arlo Blackthorn Logo">
+        </div>
+        <div class="footer-text-box-flex">
+          &copy; 1998-2026 Arlo Blackthorn. All rights reserved.
+        </div>
+      </div>
+    </footer> 
+
+  </body>
+</html>
